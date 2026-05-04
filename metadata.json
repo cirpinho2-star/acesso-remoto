@@ -1,0 +1,6 @@
+{
+  "name": "RemoteLink",
+  "description": "A secure and fast web-based remote access and screen sharing application. Connect with ID and Password to provide remote support or collaborate.",
+  "requestFramePermissions": ["display-capture", "camera", "microphone"],
+  "majorCapabilities": []
+}
